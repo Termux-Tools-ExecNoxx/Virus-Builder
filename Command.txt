@@ -1,0 +1,7 @@
+git clone https://github.com/Cyber-Dioxide/Virus-Builder/
+cd Virus-Builder
+pip install -r requirements.txt
+python3 Builder.py
+
+
+> CREDIT 👉👉 CRYPTO LORD 💀
